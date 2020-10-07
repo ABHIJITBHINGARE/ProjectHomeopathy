@@ -1,0 +1,12 @@
+D:\sw project\homeopathyproject\homeopathyproject\bin\Debug\homeopathyproject.exe.config
+D:\sw project\homeopathyproject\homeopathyproject\bin\Debug\homeopathyproject.exe
+D:\sw project\homeopathyproject\homeopathyproject\bin\Debug\homeopathyproject.pdb
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.Form1.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.Properties.Resources.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.csproj.GenerateResource.Cache
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.exe
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.pdb
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.csprojResolveAssemblyReference.cache
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.Home.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.frmappointment.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Debug\homeopathyproject.frmLogIn.resources

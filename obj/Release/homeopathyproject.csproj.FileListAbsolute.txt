@@ -1,0 +1,44 @@
+D:\sw project\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe.config
+D:\sw project\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe
+D:\sw project\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.pdb
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Form1.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.frmappointment.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.frmLogIn.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Home.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Properties.Resources.resources
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csproj.GenerateResource.Cache
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.exe
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.pdb
+D:\sw project\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csprojResolveAssemblyReference.cache
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe.config
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.exe
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.pdb
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.pdb
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csprojResolveAssemblyReference.cache
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Form1.resources
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.frmappointment.resources
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Home.resources
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Properties.Resources.resources
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csproj.GenerateResource.Cache
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe.manifest
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.application
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.exe.manifest
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.application
+D:\hmeopathyproject\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.homeopathy.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe.config
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.exe
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.pdb
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe.manifest
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.application
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.exe
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\bin\Release\homeopathyproject.pdb
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csprojResolveAssemblyReference.cache
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Form1.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.frmappointment.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.homeopathy.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Home.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.Properties.Resources.resources
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.csproj.GenerateResource.Cache
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.exe.manifest
+E:\secret\homeopathy project updated removed dataset\homeopathyproject\homeopathyproject\homeopathyproject\obj\Release\homeopathyproject.application
